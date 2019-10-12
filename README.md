@@ -67,9 +67,6 @@
     4.搜索返回数据处理
         1.redux存储每一次搜索的内容
         2.将redux写入到SearchInput中
-    5.面试题：https://gitee.com/iwensxt/new-web-interview
-
-
 5.内存泄漏问题
     1.组件销毁后，不能在给state赋值，否则会造成内存泄漏
         componentWillUnmount() {
@@ -86,8 +83,3 @@
     3.使用事件(滚动等事件，可持续的事件)的时候，组件销毁后，要清除事件，否则造成内存泄漏
         清除事件
     4.参考地址：https://juejin.im/post/5ca48a136fb9a05e6c77bd9a
-
-
-
-假期作业：
-    链接：https://pan.baidu.com/s/16gWbf7PpbsiwXtYtmNLrFA    提取码：buxi 
